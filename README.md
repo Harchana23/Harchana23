@@ -82,7 +82,7 @@ harchana23:~$ stack --ai
 
 ### 🚧 Currently building
 
-**[Exam Platform](https://github.com/CyberG7-org/Exam-Platform)** — an AI-graded, multi-course exam & certification platform: a Supabase data layer (Postgres + RLS + Auth), an admin **AI quiz generator** and **rubric-anchored AI grading** (Claude), a quiz runner with autosave + resume, Stripe-gated tiers, and verifiable certificates. **· [Live ↗](https://examcert-web.vercel.app)**  
+**[Exam Platform](https://github.com/Harchana23/exam-platform)** — an AI-graded, multi-course exam & certification platform: a Supabase data layer (Postgres + RLS + Auth), an admin **AI quiz generator** and **rubric-anchored AI grading** (Claude), a quiz runner with autosave + resume, Stripe-gated tiers, and verifiable certificates. **· [Live ↗](https://examcert-web.vercel.app)**  
 `Next.js 16` · `TypeScript` · `Supabase` · `Claude (Opus 4.8)` · `n8n` · `Stripe`  
 *🟢 Ongoing — I'm the **main developer** on this one.*
 
