@@ -123,3 +123,5 @@ harchana23:~$ stack --ai
 - 💼 LinkedIn — [harchana-subramaniam](https://www.linkedin.com/in/harchana-subramaniam/)
 
 <sub>Open to AI Software Developer opportunities.</sub>
+
+<!-- profile -->
