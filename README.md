@@ -13,6 +13,8 @@ harchana23:~$ whoami
 ↳ AI Software Developer — I build & ship production AI systems, end to end
 harchana23:~$ ls ./shipped
 ↳ ai-visibility  launchnow  website-factory  +5 more
+harchana23:~$ cat ./building
+↳ exam-platform — AI-graded multi-course exam & cert platform (main dev)
 harchana23:~$ stack --ai
 ↳ llm-orchestration · rag · n8n · claude-code · supabase
 ```
@@ -77,6 +79,14 @@ harchana23:~$ stack --ai
 ---
 
 ## 🛠️ Featured Work
+
+### 🚧 Currently building
+
+**[Exam Platform](https://github.com/CyberG7-org/Exam-Platform)** — an AI-graded, multi-course exam & certification platform: a Supabase data layer (Postgres + RLS + Auth), an admin **AI quiz generator** and **rubric-anchored AI grading** (Claude), a quiz runner with autosave + resume, Stripe-gated tiers, and verifiable certificates. **· [Live ↗](https://examcert-web.vercel.app)**  
+`Next.js 16` · `TypeScript` · `Supabase` · `Claude (Opus 4.8)` · `n8n` · `Stripe`  
+*🟢 Ongoing — I'm the **main developer** on this one.*
+
+### Shipped at CyberG7
 
 > Production systems I've **contributed to at CyberG7**. Most of the code lives in private company repos — these showcase repos and the live links are the real thing, and I'm glad to walk through my part of any of them.
 
